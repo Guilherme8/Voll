@@ -32,14 +32,14 @@ export default function Depoimentos() {
     return (
         <Container>
             <Titulo>Depoimentos</Titulo>
-            <Texto>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</Texto>
+            <Texto>Foi fácil de usar e me permitiu marcar minha consulta de forma rápida e conveniente. A variedade de opções de horários disponíveis foi útil e a confirmação da consulta foi eficiente. Recomendaria para quem busca praticidade na marcação de consultas.</Texto>
             <Subtitulo>Júlio, 40 anos, São Paulo/SP.</Subtitulo>
             <Linha />
-            <Texto>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</Texto>
-            <Subtitulo>Júlio, 40 anos, São Paulo/SP.</Subtitulo>
+            <Texto>Minha experiência com a Voll foi bastante satisfatória. A interface era intuitiva e fácil de usar, o que facilitou bastante o processo de marcar minha consulta.</Texto>
+            <Subtitulo>Robson, 28 anos, Rio de Janeiro/RJ.</Subtitulo>
             <Linha />
-            <Texto>At vero eos et accusamus et iusto odio dignissimos ducimus qui blanditiis praesentium voluptatum deleniti atque corrupti quos dolores et quas molestias excepturi sint occaecati cupiditate non provident, similique sunt in culpa qui officia deserunt mollitia animi, id est laborum et dolorum fuga. Et harum quidem rerum facilis est et expedita distinctio.</Texto>
-            <Subtitulo>Júlio, 40 anos, São Paulo/SP.</Subtitulo>
+            <Texto>Utilizei o aplicativo de agendamento de consulta e fiquei satisfeito com a praticidade oferecida. O processo de marcação foi simples e direto, encontrando facilmente horários disponíveis que se adequavam à minha agenda. A confirmação da consulta também foi rápida, o que me trouxe tranquilidade quanto à marcação.</Texto>
+            <Subtitulo>Marinalva, 53 anos, São Paulo/SP.</Subtitulo>
             <Linha />
         </Container>
     )
